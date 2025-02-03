@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JD_WbP_Y)
+Due Date: Feb 3, 2025, 07:59 UTC
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
